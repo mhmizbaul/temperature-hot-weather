@@ -19,6 +19,6 @@ const submitBtn = document.getElementById('submit-btn').addEventListener('click'
             document.getElementById('cunt').innerText = cunt;
 
         })
-        .catch(res => alert('Please type right city name'))
+        .catch(res => alert('Please type right city'))
 
 })
